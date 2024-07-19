@@ -9,5 +9,6 @@
    git clone https://github.com/impossible2live/Anon-chat-telegram-bot.git
    cd Anon-chat-telegram-bot
 2. Установите необходимые зависимости:
+   ```bash
    pip install python-telegram-bot --upgrade
-3. Замените "TOKEN" в файле bot.py на ваш реальный токен бота.
+4. Замените "TOKEN" в файле bot.py на ваш реальный токен бота.
