@@ -1,1 +1,1 @@
-# Anon_chat_telegram_bot
+Анонимный чат бот в телеграм на Python
